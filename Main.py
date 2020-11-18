@@ -6,7 +6,7 @@
 # -----< Modules >-----
 
 # import tkinter as Tk
-import threading as Threading
+#import threading as Threading
 import sys as Sys
 
 # ---< Variables >---
