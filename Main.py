@@ -5,9 +5,9 @@
 
 # -----< Modules >-----
 
-# import tkinter as Tk
-# import threading as Threading
-# import sys as Sys
+import tkinter as Tk
+import threading as Threading
+import sys as Sys
 
 # ---< Variables >---
 
@@ -60,7 +60,7 @@ KeyPressed = [0, 0, 0, 0, 0]    # W, A, S, D, SPACE
 PMan = None
 
 print("[TEST]")
-"""
+
 # ---< Init Screen >---
 
 Screen = Tk.Tk()
@@ -155,4 +155,3 @@ Screen.mainloop()
 # --------< End >-------
 
 print("Closed.")
-"""
