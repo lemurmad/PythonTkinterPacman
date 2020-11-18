@@ -4,11 +4,12 @@
 # Created: 16 / 11 / 20
 # Updated: 18 / 11 / 20
 
-Boot = False
+Boot = True
 
-print("[Test #5] - Boot Boolean Test")
+print("[Test #6] - Boot Test")
 
 if Boot == False:
+    print("Booting is False, Stopping...")
     raise
 
 # -----< Modules >-----
