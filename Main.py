@@ -3,6 +3,13 @@
 # Pacman in python.
 # 16 / 11 / 20
 
+Boot = False
+
+print("[Test #4] - Boot Boolean Test")
+
+if Boot == False:
+    return False
+
 # -----< Modules >-----
 
 import tkinter as Tk
@@ -58,9 +65,6 @@ Ghosts = []
 BigPellets = []
 KeyPressed = [0, 0, 0, 0, 0]    # W, A, S, D, SPACE
 PMan = None
-
-print("[TEST #3]")
-0/0
 
 # ---< Init Screen >---
 
