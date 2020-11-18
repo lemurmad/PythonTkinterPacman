@@ -1,14 +1,15 @@
 # Code here for pacman :)
 # Ran using the loader to prevent having to always update for easy usage :D
 # Pacman in python.
-# 16 / 11 / 20
+# Created: 16 / 11 / 20
+# Updated: 18 / 11 / 20
 
 Boot = False
 
-print("[Test #4] - Boot Boolean Test")
+print("[Test #5] - Boot Boolean Test")
 
 if Boot == False:
-    return False
+    raise
 
 # -----< Modules >-----
 
