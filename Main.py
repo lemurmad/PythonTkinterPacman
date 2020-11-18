@@ -59,7 +59,7 @@ BigPellets = []
 KeyPressed = [0, 0, 0, 0, 0]    # W, A, S, D, SPACE
 PMan = None
 
-print("[TEST]")
+print("[TEST #2]")
 
 # ---< Init Screen >---
 
